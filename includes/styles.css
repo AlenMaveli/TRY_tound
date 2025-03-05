@@ -12,3 +12,9 @@ body{
     flex-direction: row;
     justify-content: space-around;
 }
+
+#suup{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
