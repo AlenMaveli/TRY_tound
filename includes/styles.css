@@ -1,3 +1,14 @@
 body{
     background-color: rgb(192, 67, 67);
 }
+.jumb{
+    width: 160px;
+    background-color: white;
+    height: 400px;
+    border-radius: 20px;
+}
+#sup{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
